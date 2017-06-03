@@ -15,5 +15,6 @@ int a;
         setContentView(R.layout.activity_main);
         //hola
 
+        n = 0;
     }
 }
